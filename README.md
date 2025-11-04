@@ -1,4 +1,4 @@
-Frontend Github Repo: 
+Frontend Github Repo: https://github.com/sam-dwdkr404/medireminder-frontend.git
 
 # Medicine Reminder Web App
 
