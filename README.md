@@ -26,9 +26,5 @@ A simple and intuitive web application built with the MERN stack (MongoDB, Expre
 
 Demo:
 ![image alt](https://github.com/sam-dwdkr404/medireminder-backend/blob/main/Screenshot%202025-11-04%20181116.png)
-
-
-
-[6](https://blog.bitsrc.io/writing-the-perfect-reademe-for-your-node-library-2d5f24dc1c06)
-[7](http://codesandbox.io/p/github/JimmieWong/mern-boilerplate)
-[8](https://stackblitz.com/edit/github-h5hhdf)
+![image alt](https://github.com/sam-dwdkr404/medireminder-backend/blob/main/Screenshot%202025-11-04%20181142.png?raw=true)
+![image alt]
