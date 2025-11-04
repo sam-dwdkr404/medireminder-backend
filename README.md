@@ -27,4 +27,4 @@ A simple and intuitive web application built with the MERN stack (MongoDB, Expre
 Demo:
 ![image alt](https://github.com/sam-dwdkr404/medireminder-backend/blob/main/Screenshot%202025-11-04%20181116.png)
 ![image alt](https://github.com/sam-dwdkr404/medireminder-backend/blob/main/Screenshot%202025-11-04%20181142.png?raw=true)
-![image alt]
+![image alt](https://github.com/sam-dwdkr404/medireminder-backend/blob/main/Screenshot%202025-11-04%20181116.png)
